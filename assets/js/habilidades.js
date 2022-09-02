@@ -3,10 +3,10 @@ const descricao = document.querySelector('.texto-descricao');
 const sobreSkill = [
                     '<p>HTML</p> <br> <p>É uma linguagem de marcação utilizada na construção de páginas na Web.</p> <br>',
                     '<p>CSS</p> <br> <p>É um mecanismo para adicionar estilo a um documento web.</p> <br>',
-                    '<p>JavaScript</p> <br> <p>É uma linguagem de programação. Juntamente com HTML e CSS, é uma das três principais tecnologias da web.</p> <br>',
-                    '<p>ReactJS</p> <br> <p>O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.</p> <br>',
-                    '<p>Styled Components</p> <br> <p>É uma biblioteca (lib) que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript.</p> <br>',
-                    '<p>Sass</p> <br> <p>É uma linguagem de folhas de estilo. Basicamente o Sass potencializa o CSS.</p> <br>',
+                    '<p>JavaScript</p> <br> <p>É uma linguagem de programação fundamental para a dinâmica de um site na web.</p> <br>',
+                    '<p>PHP</p> <br> <p>É uma das principais linguagens utilizada para o desenvolvimento de websites. Juntamente com HTML, CSS e JS é capaz de criar aplicações dinâmicas e idependentes.</p> <br>',
+                    '<p>Bootstrap</p> <br> <p>É uma biblioteca (lib) que utiliza o conceito de CSS-in-JS, ou seja, que nos permite modificar códigos pré-desenvolvidos escritos com CSS e Javascript.</p> <br>',
+                    '<p>SQL</p> <br> <p>É uma linguagem de Banco de Dados Relacional. Basicamente nos permite escrever instruções para o Banco de Dados como Guardar, Substituir e Apagar informações de um site.</p> <br>',
                     '<p>Git</p> <br> <p>É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.</p> <br>',
                     '<p>Github</p> <br> <p>É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. </p> <br>'
 ]

@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
- color: rgb(208, 255, 0);
+ color: rgb(103, 199, 85);
 }
 
 img {
@@ -29,6 +29,7 @@ img {
 }
 
 .logo {
+    width: 120px;
     padding: 15px 0;
 }
 
