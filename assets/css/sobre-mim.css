@@ -1,4 +1,3 @@
-@import url(//db.onlinewebfonts.com/c/50cd2aad9c8f35800bb6beac3ad42f16?family=Azonix);
 #sobre-mim {
     width: 100%;
     background-color: #493737;
@@ -14,7 +13,7 @@
 }
 
 h2 {
-    font-family: 'Azonix', cursive;
+    font-family: 'Russo One', sans-serif;
     font-size: 45px;
     color: white;
 }
